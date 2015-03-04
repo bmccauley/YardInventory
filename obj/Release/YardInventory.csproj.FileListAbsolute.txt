@@ -1,0 +1,8 @@
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\bin\Release\YardInventory.exe.config
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\bin\Release\YardInventory.exe
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\bin\Release\YardInventory.pdb
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\bin\Release\CIDARMTWrapper.dll
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\obj\Release\YardInventory.Properties.Resources.resources
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\obj\Release\YardInventory.csproj.GenerateResource.Cache
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\obj\Release\YardInventory.exe
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\YardInventory\YardInventory\obj\Release\YardInventory.pdb
